@@ -2,7 +2,7 @@
 
 I'm Danushka. I'm a software engineer who loves to make open-source projects, and work with distributed systems.
 
-- 🔭 I’m currently working on [💻 UstockTrade](http://ustocktrade.com/),
+- 🔭 I’m working in [💻 UstockTrade](http://ustocktrade.com/),
 - 👯 I’m looking to collaborate on Java, Vue.js projects
 - 💬 Ask me about web
 - 📫 How to reach me: 
