@@ -6,7 +6,6 @@ I'm Danushka. I'm a software engineer who loves to make open-source projects, an
 - 👯 I’m looking to collaborate on Java, Vue.js projects 🎎
 - 💬 Ask me about web 📲
 - 🌱 I’m currently learning springboot and Golang 👓
-- ⚡ Fun fact: 
 
 ### Connect with me:
 
