@@ -20,6 +20,13 @@ I'm Danushka. I'm a software engineer who loves to make open-source projects, an
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danushka96&layout=compact)<br/>
 
 <!--START_SECTION:waka-->
+```text
+Java         27 hrs 26 mins  █████████████████▓░░░░░░░   70.87 % 
+Docker       2 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+YAML         1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Gherkin      1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Properties   1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+```
 <!--END_SECTION:waka-->
 
 [website]: https://danushka96.github.io
