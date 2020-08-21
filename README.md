@@ -17,8 +17,8 @@ I'm Danushka. I'm a software engineer who loves to make open-source projects, an
 [<img align="left" alt="DanushkaHerath | gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][gitlab]
 <br/><br/>
 ![Danushka's github stats](https://github-readme-stats.vercel.app/api?username=danushka96&show_icons=true&theme=dracula)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danushka96&layout=compact)<br/>
 
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 Java         27 hrs 26 mins  █████████████████▓░░░░░░░   70.87 % 
