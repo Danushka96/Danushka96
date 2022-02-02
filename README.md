@@ -21,8 +21,7 @@ I'm Danushka. I'm a software engineer who loves to make open-source projects, an
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Java   28 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀   93.40 % 
-JSON   2 mins          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.60 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
