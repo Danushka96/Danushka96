@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Danushka. I'm a software engineer who loves to make open-source projects, and work with distributed systems.
+I'm Danushka. I'm a software engineer who loves to make open-source projects and work with distributed systems.
 
-- 🔭 I’m working at [💻 UstockTrade](http://ustocktrade.com/),
+- 🔭 I’m working at [💻 Circles](https://www.circles.life/),
 - 👯 I’m looking to collaborate on Java, Vue.js projects 🎎
 - 💬 Ask me about web 📲
-- 🌱 I’m currently learning springboot and Golang 👓
+- 🌱 I’m currently building the Ginboot 👓
 
 ### Connect with me:
 
@@ -16,16 +16,6 @@ I'm Danushka. I'm a software engineer who loves to make open-source projects, an
 [<img align="left" alt="DanushkaHerath | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
 [<img align="left" alt="DanushkaHerath | gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][gitlab]
 <br/><br/>
-![Danushka's github stats](https://github-readme-stats.vercel.app/api?username=danushka96&show_icons=true&theme=dracula)<br/>
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 [website]: https://danushka96.github.io
 [twitter]: https://twitter.com/danushka_herath
